@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/1309134997/hcnote/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1309134997/hcnote/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <!--网页名称-->
+    <title>冷贤科技——奋斗的青春最精彩！</title>
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+      <!--关键词-->
+       <meta name="keywords" content="冷贤科技|冷贤主页|幻城科技|">
+        <!q&amp;nk=3336666765&amp;s=160" class="logo">
+        	</div>
+          	<div class="content">
+            	        <div class="inner">
+                              ="hitokoto"><script>hitokoto()</script></div>
+                              			</p>
+                                    		</div>
+                                        							<li><a href="http://hcnote.cn" target="_blank"><i class=""></i>官方博客</a><li>
+                                                      							    <li><a h8FF; min-height: 50px; font-size: 16px; line-height: 1.5; margin: 5px; border-radius: 2em;padding: 5punction showsectime() {
+                                                                        var birthDay =NewDate("2020-6-12");
+                                                                        var today=new Date();
+                                                                        var timeold=today.g						
+                                                                        
+                                                                        					
+                                                                                   
+                                                                                    	
+                                                                                       			
+                                                                                            
+                                                                                             rquee style="font-size: 9pt; font-weight: bold; color: #FFFFFF">顾客是上帝，我们为您提供最优质的服务！</marquewidth="65px" heighf="bsp;|&nbsp;
+                                                                                                         <a target="_blank" href="这里输入网址">等待添加</a>
+                                                                                                                     &nbsp;|&nbsp;
+                                                                                                                              ialistValues.length);document.body.addEventListeneror: #FFFFFF; top: ', y - 20, 'px; left: ', xeeInt(el.style.top), id = setInterval(frame, 16.7);function frame() {if (i > 180) {clearInterval(id);el.parentNode.remov></div></header></div></div></section></div></body>
+                                                                                                                              
+                                                                                                                              
+                                                                                                                              <div id="bg">
+                                                                                                                              </div>
+                                                                                                                              <script src="https://libs.n:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:100001;}</style>
+                                                                                                                              <div class="
